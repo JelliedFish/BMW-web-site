@@ -1,0 +1,22 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-text {
+    color : black;
+}
+.card-footer{
+    background: transparent;
+}
+
+.text-center{
+    padding: 1px;
+    margin: 1px;
+    background: #020202;
+    color: white;
+    border-radius: 10px;
+
+}
+
